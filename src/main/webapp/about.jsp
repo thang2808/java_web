@@ -12,24 +12,7 @@
 <div style="background-color: white; padding:35px; font-size: 30px;">
 Online shopping
 <br>
-Hey everyone!!
-<br>
-I make free programming tutorials for beginners.
-& PROJECT videos with source code.
-That include Java for beginners,c# (Dot net tutorial), JFrame,JDBC,Jsp,etc
-<br>
-We make videos of :-
-DBMS
-COMPUTER NETWORKING 
-BPM
-OS, etc
-So kindly subscribe our channel.
-<br>
-Contact us at :- btechdays.care@gmail.com
-<br>
-or
-<br>
-contact us at instagram :- btechdays
+The CHT fashion shop specializes in offering a variety of clothing and fashion accessories. We constantly update with the latest trends to provide our customers with the most stylish and high-quality products. Visit CHT to enjoy an amazing fashion shopping experience and find your unique style!
 </div>
 
 </body>
